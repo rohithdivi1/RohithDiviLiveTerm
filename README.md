@@ -3,5 +3,5 @@
 I'm Rohith
 
 - learning: Full Stack, Cloud Infra, Systems, AI
-- hobbies: Motorcycles, Basketball
+- hobbies: Riding Motorcycles, Watching Basketball
 - more: [official](https://linkedin.com/in/rohithdivi) 
